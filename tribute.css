@@ -68,16 +68,17 @@
     }
     .p{
         letter-spacing: 3px;
-        margin-left: 60px;
+        margin-right: 50px;
     }
     .k{
         color: royalblue;
         /* text-decoration-line: underline; */
         /* font-style: ; */
         font-size: 28px;
-        font-weight: 700;
-        margin-right: 90;
+        font-weight: 500;
+        margin-right: 50px;
         padding-left: 60px;
+        right: 50px;
     }
 
 
